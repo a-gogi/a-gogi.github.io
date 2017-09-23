@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>CPS530 Lab 1 | My Favorite Bubble Tea</title>
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,300" rel="stylesheet">
-    
-    </head>
-
-<body style="position:absolute;margin:0em;width:100%;font-family:'Open Sans Condensed';">
-
-    <!-- Header -->
     <div style="font-family:'Raleway';letter-spacing:0.15em;position:relative;background-color:#90e0d2;height:2em;padding:2em;text-transform:uppercase;font-weight:300;">
 
         <!-- Student Information -->
@@ -53,6 +41,3 @@
             <img src="http://en.coco-tea.com/images/product/%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6460x460.png" alt=“strawberry-lychee” style="width:10em;">
         </article>
     </div>
-
-</body>
-</html>
